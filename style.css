@@ -1,0 +1,37 @@
+   
+  h1{
+    color:blue;
+   font-weight: lighter;
+}
+
+a{
+    color:yellow;
+    transition: color .3s linear 1s;
+}
+
+.Header{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Origamis{
+    background-color: Burnt Amber;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-shrink: 4;
+    color: crimson;
+}
+
+.Menu{
+    background-color: darkgrey;
+    display: flex;
+    justify-content: flex-end;
+}
+
+p {
+    text-align: left;
+  font-size: 24px;
+  font-family: cursive; 
+}
